@@ -27,7 +27,7 @@ python3 sqlmap.py --help
 
 Download the latest release from [https://github.com/sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap)
 
-```
+
 
 ## Basic Usage
 
@@ -126,4 +126,3 @@ python3 sqlmap.py -u "[http://example.com/login](http://example.com/login)" --da
 - Use `--batch` for automated testing in CTFs or scripts.  
 - Combine SQLMap with other tools like Burp Suite for better results.  
 - Keep SQLMap updated to use the latest detection techniques.
-```
