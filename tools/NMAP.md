@@ -1,4 +1,3 @@
-
 # Nmap: The Swiss Army Knife of Network Scanning
 Nmap (Network Mapper) is one of the most essential tools for any ethical hacker or security enthusiast. It allows you to discover hosts, open ports, services, and even potential vulnerabilities on a network. In this blog post, we’ll cover Nmap basics, advanced scanning techniques, and some practical examples you can try in a controlled environment.
 
