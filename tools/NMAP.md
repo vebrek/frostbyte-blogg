@@ -16,23 +16,23 @@ Nmap is widely used in Capture The Flag (CTF) challenges, penetration tests, and
 
 Nmap is available on Linux, Windows, and macOS. On most Linux distributions, it can be installed via the package manager:
 
-```
 
-# Debian/Ubuntu
+
+### Debian/Ubuntu
 
 sudo apt update
 sudo apt install nmap
 
-# Fedora
+### Fedora
 
 sudo dnf install nmap
 
-# macOS (using Homebrew)
+### macOS (using Homebrew)
 
 brew install nmap
 
-```
 
+### Windows
 Windows users can download the installer from the [official Nmap website](https://nmap.org/download.html).
 
 ## Basic Scanning
@@ -135,8 +135,3 @@ nmap -O --traceroute 192.168.1.0/24
 - Regularly update Nmap to leverage the latest scripts and features.  
 
 Nmap is a versatile tool that becomes more powerful as you explore its options and scripting capabilities. Mastering it is a must for CTF participants and aspiring ethical hackers alike.
-```
-
-This Markdown file can be saved as something like `nmap-blogpost.md` and directly used on your homepage.
-
-If you want, I can also **create a “CTF-style writeup” version of this post**, where Nmap is shown being used step by step to solve challenges, similar to the style in your example. That would make it more engaging for a CTF audience. Do you want me to do that?
